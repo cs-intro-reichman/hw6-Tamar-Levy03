@@ -30,7 +30,7 @@ public class Editor1 {
 		// Finally, displays the output image.
 		// (Notice that both images have the same dimensions).
 		Runigram.setCanvas(imageIn);
-		Runigram.display(imageIn);
+		Runigram.display(imageIn); 
 		StdDraw.pause(3000); 
 		Runigram.display(imageOut);							
 	}
